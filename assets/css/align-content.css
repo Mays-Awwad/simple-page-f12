@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.parent{
+    background-color: teal;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.child{
+    background-color: blue;
+    width:20%;
+    color:white;
+    text-align:center;
+}
+.product-one{
+    background-color:blueviolet;
+}
+.product-two{
+    background-color: yellow;
+}
+.product-three{
+    background-color: brown;
+}
+.product-four{
+    background-color: aqua;
+}
+.product-five{
+    background-color: chartreuse;
+}
